@@ -1,0 +1,15 @@
+/* your styles go here */
+
+.fundo{
+	background-image: url(../img/mv.jpg);
+	background-repeat: no-repeat;
+}
+
+.fd2{
+	background: #fffffff0;
+}
+
+.text-muted {
+    font-weight: bold !important;
+    color: #000000!important;
+}
