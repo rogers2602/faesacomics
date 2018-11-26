@@ -13,3 +13,10 @@
     font-weight: bold !important;
     color: #000000!important;
 }
+
+.box {
+    margin: 80px 0;
+    border-top: 0px solid #ddd; 
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
